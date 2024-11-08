@@ -48,6 +48,6 @@ My interest in cybersecurity was sparked by early exposure to hacking culture th
 
 I'm always open to discussing cybersecurity, sharing knowledge, and collaborating on interesting projects. Feel free to reach out!
 
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: [Your LinkedIn](www.linkedin.com/in/dominicspucches)
 - **Twitter**: [Your Twitter](https://twitter.com/yourhandle)
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
