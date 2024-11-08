@@ -15,7 +15,7 @@ My interest in cybersecurity was sparked by early exposure to hacking culture th
 - **Custom Tool Development**: Building solutions tailored to unique security challenges.
 
 ## 📂 Featured Projects
-
+<!--
 ```
 - **[Project Name 1]**: A Python-based tool for [describe the tool's purpose].
   - **Highlights**: [Key features]
@@ -26,7 +26,7 @@ My interest in cybersecurity was sparked by early exposure to hacking culture th
   - **Technologies**: PowerShell, [Other Tools/Technologies]
 
 ```
-
+-->
 ## 🎬 Inspirations
 
 - **Movies**:
