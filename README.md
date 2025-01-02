@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dominic Spucches
+# 👋 Hi, I'm Remotely Root.
 
 I'm a **Threat Hunting Analyst** with a passion for cybersecurity, scripting, and continuous learning. My focus is on using **PowerShell** and **Python** to automate threat detection, streamline investigations, and enhance security operations.
 
